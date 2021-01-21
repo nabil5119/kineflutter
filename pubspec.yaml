@@ -30,6 +30,7 @@ dependencies:
   image_cropper: ^1.0.2
   image_picker:  ^0.6.0
   cached_network_image: ^2.2.0+1
+  mailer:
 
 dev_dependencies:
   flutter_test:
